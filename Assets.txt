@@ -1,0 +1,10 @@
+Cash
+PettyCash
+Accounts_Receivable
+Allowance_for_Doubtful_Accounts
+Prepaid_Insurance
+Prepaid_Expense
+Inventory
+Fixed_Assets
+Accumulated_Depreciation
+

@@ -1,0 +1,10 @@
+Cost_of_Goods_Sold
+Advertising_Expense
+Bank_Fees
+Depreciation_Expense
+Payroll_Tax_Expense
+Rent_Expense
+Supplies_Expense
+Utilities_Expense
+Wage_Expense
+
